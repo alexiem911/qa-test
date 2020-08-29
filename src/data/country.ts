@@ -199,7 +199,7 @@ export default [
     code: 'fij',
   }, {
     name: 'FINLAND',
-    code: 'fin',
+    code: '',
   }, {
     name: 'FRANCE',
     code: 'fra',
